@@ -2,7 +2,7 @@
 Simple bash shell script that lets you run a command as many times as you want.
 
 ## Installation
-Add the `try` file to PATH.
+Rename the `try.sh` file as `try` and add it to PATH
 
 ## Usage
 ```bash
