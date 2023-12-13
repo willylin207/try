@@ -1,5 +1,5 @@
 # try
-Simple bash shell script that lets you run a command as many times as you want.
+Simple bash shell script that lets you run a command some number of times until it succeeds.
 
 ## Installation
 Rename the `try.sh` file as `try` and add it to some folder containing scripts:
