@@ -14,7 +14,7 @@ for i in $(seq "$n"); do
 
     if [ $? -eq 0 ]; then
         echo "[TRY] Success!"
-        break
+        exit 0
     fi
 done
 
